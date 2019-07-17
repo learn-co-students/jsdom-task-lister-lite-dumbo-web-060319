@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
       toDoList.removeChild(this);
     })
     event.preventDefault();
-    
+
   });
 });
+ 
